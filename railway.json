@@ -1,4 +1,1 @@
-{
-  "build": { "builder": "nixpacks" },
-  "start": "python main.py"
-}
+
